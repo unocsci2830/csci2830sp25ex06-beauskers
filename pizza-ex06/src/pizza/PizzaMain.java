@@ -2,9 +2,7 @@ package pizza;
 
 import java.util.Scanner;
 
-import pizza.crust.Thick;
-import pizza.crust.Thin;
-import pizza.crust.PizzaCrust;
+import pizza.crust.*;
 import pizza.topping.*;
 import pizza.sauce.*;
 
